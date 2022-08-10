@@ -1,4 +1,7 @@
-## Oiii, eu sou a Thais Duque, entusiasta na área de desenvolvimento, com foco em Front-End!
+## <div align="center"> Oiii, eu sou a Thais Duque, </div>
+<div align="center"> Entusiasta na área de desenvolvimento, com foco em Front-End! 
+</div>
+<br>
 <div align="center">
   <a href="https://github.com/Duquewdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Duquewdev&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
